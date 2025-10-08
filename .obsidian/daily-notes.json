@@ -1,0 +1,6 @@
+{
+  "format": "y[年]M[月]d[日]dddd",
+  "folder": "daily_diary",
+  "autorun": false,
+  "template": "tmplate/daily_tmplate"
+}
