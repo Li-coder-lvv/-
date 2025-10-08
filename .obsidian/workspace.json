@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刑法分则/绑架罪.md",
+                "file": "公安基础知识/行政诉讼.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "绑架罪"
+              "title": "行政诉讼"
+            }
+          },
+          {
+            "id": "ffa72701ee3daa82",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "犯罪记录",
+                "query": "行政复议",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 321.5
   },
   "right": {
     "id": "a314a5f454935159",
@@ -221,11 +232,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf2311b85cd60622",
+  "active": "a97b235a238e4b9f",
   "lastOpenFiles": [
+    "行政复议.md",
+    "attachment/Pasted image 20251008190500.png",
+    "attachment/Pasted image 20251008185715.png",
+    "attachment/Pasted image 20251008182118.png",
+    "公安基础知识/行政诉讼.md",
+    "刑事诉讼法/附带⺠事诉讼的刑事诉讼.md",
+    "刑法分则/绑架罪.md",
+    "Untitled.md",
     "公安行政执法处罚/吊销公安机关发放的许可证.md",
     "未命名.base",
-    "Untitled.md",
     "治安管理处罚法/治安管理处罚法总则.md",
     "公安刑事执法的主要措施/刑事强制措施.md",
     "治安管理处罚法/执法监督.md",
@@ -246,12 +264,8 @@
     "attachment/Pasted image 20251008142315.png",
     "公安基础知识/公安执法监督.md",
     "公安基础知识/公安行政执法.md",
-    "公安基础知识/行政诉讼.md",
     "治安管理处罚法",
     "第二部分、公安基础知识.md",
-    "民法/人格权.md",
-    "民法/继承编.md",
-    "民法/婚姻家庭编.md",
     "attachment/Pasted image 20251004160503.png",
     "attachment/Pasted image 20251004154740.png",
     "attachment/Pasted image 20250927185617.png",
@@ -264,9 +278,6 @@
     "未命名 2.base",
     "未命名 4.base",
     "未命名 1.base",
-    "attachment/Pasted image 20250917152407.png",
-    "attachment/Pasted image 20250917143129.png",
-    "attachment/Pasted image 20250917142603.png",
     "刑事诉讼法",
     "未命名.canvas"
   ]
