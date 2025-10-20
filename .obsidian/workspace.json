@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "8021af71616c668a",
+            "id": "9a15fe12d37832f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "治安管理处罚法/治安管理处罚法处罚程序（上·调查）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "治安管理处罚法处罚程序（上·调查）"
+            }
+          },
+          {
+            "id": "222761cee4fda529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行政复议.md",
+                "file": "治安管理处罚法/治安管理处罚法处罚程序（上·调查）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,10 +80,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "行政复议"
+              "title": "治安管理处罚法处罚程序（上·调查）"
+            }
+          },
+          {
+            "id": "bd7ead649647f4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安刑事执法的主要措施/侦查行为.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "侦查行为"
+            }
+          },
+          {
+            "id": "b5c8539296e350ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "合法、",
+                "query": "法院院长",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,12 +181,11 @@
               "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "a314a5f454935159",
@@ -141,13 +201,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "公安行政执法（办理行政案件程序规定） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -252,34 +311,34 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "5b4d249da7ba5b93",
+  "active": "b5c8539296e350ef",
   "lastOpenFiles": [
-    "行政复议.md",
-    "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
-    "治安管理处罚法/治安管理处罚法总则.md",
-    "公安基础知识/公安执法监督.md",
+    "刑事诉讼法/刑事诉讼法管辖与回避.md",
     "公安基础知识/公安刑事执法（办理刑事案件能力）.md",
+    "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
+    "治安管理处罚法/治安管理处罚法处罚程序（上·调查）.md",
+    "公安刑事执法的主要措施/侦查行为.md",
+    "公安刑事执法的主要措施/刑事强制措施.md",
+    "公安基础知识/公安机关的任务、职权和发展.md",
+    "公安基础知识/公安机关外部监督.md",
+    "治安管理处罚法/违反治安管理的行为（上）.md",
+    "行政处罚法.md",
+    "行政复议.md",
+    "治安管理处罚法/治安管理处罚法总则.md",
+    "治安管理处罚法/执法监督.md",
+    "治安管理处罚法/违反治安管理的行为（下）.md",
+    "治安管理处罚法/治安管理处罚法处罚程序（中·决定）.md",
+    "治安管理处罚法/治安管理处罚法处罚程序（下·执行）.md",
+    "刑法/反有组织犯罪法.md",
+    "公安基础知识/行政诉讼.md",
+    "公安基础知识/公安执法监督.md",
     "刑事诉讼法/审判.md",
     "公安基础知识/公安工作的基本方针和基本政策.md",
     "刑法/累犯、自首、坦白、立功、缓刑与假释.md",
-    "公安基础知识/公安机关的任务、职权和发展.md",
     "刑法/刑罚种类.md",
     "公安队伍正规化建设/人民警察的组织管理.md",
-    "公安刑事执法的主要措施/侦查行为.md",
-    "刑法/反有组织犯罪法.md",
-    "公安刑事执法的主要措施/刑事强制措施.md",
     "公安行政执法处罚/行政拘留.md",
-    "治安管理处罚法/治安管理处罚法处罚程序（中·决定）.md",
     "刑法/刑法总则.md",
-    "公安基础知识/公安工作的根本原则和根本路线.md",
-    "内部执法监督/督察制度.md",
-    "刑事诉讼法/起诉.md",
-    "治安管理处罚法/治安管理处罚法处罚程序（上·调查）.md",
-    "内部执法监督/自诉案件（告诉才处理案件）.md",
-    "刑事诉讼法/刑事诉讼法管辖与回避.md",
-    "公安基础知识/人民警察的内务制度.md",
-    "公安基础知识/公安机关外部监督.md",
-    "刑事诉讼法/附带⺠事诉讼的刑事诉讼.md",
     "attachment/回看-第35-36节 内务条令（下）_1750521400957.png",
     "attachment/Pasted image 20251017165738.png",
     "attachment/Pasted image 20251012163909.png",
