@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "713d7b5cf9377438",
+        "id": "34979f6df657e907",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4d249da7ba5b93",
+            "id": "64f98f88f87a1491",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
+                "file": "公安基础知识/公安刑事执法（办理刑事案件能力）.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "公安刑事执法（办理刑事案件能力）"
+            }
+          },
+          {
+            "id": "81748672d408f920",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安刑事执法的主要措施/刑事强制措施.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,16 +56,16 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "公安行政执法（办理行政案件程序规定）"
+              "title": "刑事强制措施"
             }
           },
           {
-            "id": "fb60862e05e7f26c",
+            "id": "4e42d53dceb44375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行政处罚法.md",
+                "file": "刑法/累犯、自首、坦白、立功、缓刑与假释.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +80,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "行政处罚法"
+              "title": "累犯、自首、坦白、立功、缓刑与假释"
             }
           },
           {
-            "id": "8c5d69137b38436e",
+            "id": "54caaa8231393782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "治安管理处罚法/治安管理处罚法处罚程序（下·执行）.md",
+                "file": "公安刑事执法的主要措施/刑事强制措施.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,10 +104,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "治安管理处罚法处罚程序（下·执行）"
+              "title": "刑事强制措施"
+            }
+          },
+          {
+            "id": "467ad558b5dd5e92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +150,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "行政暂缓执行拘留",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -149,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "right": {
     "id": "a314a5f454935159",
@@ -165,13 +202,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "公安行政执法（办理行政案件程序规定） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -257,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,10 +312,19 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "a97b235a238e4b9f",
+  "active": "467ad558b5dd5e92",
   "lastOpenFiles": [
-    "治安管理处罚法/治安管理处罚法处罚程序（下·执行）.md",
+    "公安刑事执法的主要措施/刑事强制措施.md",
+    "公安基础知识/公安刑事执法（办理刑事案件能力）.md",
+    "刑法/累犯、自首、坦白、立功、缓刑与假释.md",
     "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
+    "刑事诉讼法/辩护与代理.md",
+    "刑事诉讼法/刑事证据.md",
+    "刑事诉讼法/审判.md",
+    "内部执法监督/自诉案件（告诉才处理案件）.md",
+    "刑事诉讼法/刑事诉讼法的基本任务和原则.md",
+    "刑事诉讼法/刑事诉讼法管辖与回避.md",
+    "治安管理处罚法/治安管理处罚法处罚程序（下·执行）.md",
     "行政处罚法.md",
     "公安行政执法处罚/罚款.md",
     "治安管理处罚法/治安管理处罚法总则.md",
@@ -295,15 +340,6 @@
     "民法/诉讼时效.md",
     "治安管理处罚法/违反治安管理的行为（上）.md",
     "治安管理处罚法/治安管理处罚法处罚程序（中·决定）.md",
-    "娱乐场所管理条例.md",
-    "刑事诉讼法/刑事诉讼法管辖与回避.md",
-    "公安基础知识/公安刑事执法（办理刑事案件能力）.md",
-    "公安刑事执法的主要措施/刑事强制措施.md",
-    "公安基础知识/公安机关的任务、职权和发展.md",
-    "公安基础知识/公安机关外部监督.md",
-    "行政复议.md",
-    "治安管理处罚法/执法监督.md",
-    "公安基础知识/公安执法监督.md",
     "attachment/回看-第35-36节 内务条令（下）_1750521400957.png",
     "attachment/Pasted image 20251017165738.png",
     "attachment/Pasted image 20251012163909.png",
