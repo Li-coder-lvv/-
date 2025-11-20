@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b115bead457134d0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公安勤务能力.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "公安勤务能力"
-            }
-          },
-          {
             "id": "1ac90e26eb7f494a",
             "type": "leaf",
             "state": {
@@ -87,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行政复议.md",
+                "file": "公安基础知识/行政诉讼.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "行政复议"
+              "title": "行政诉讼"
+            }
+          },
+          {
+            "id": "88313517caad3bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刑法分则/国家工作相关人员的常见罪名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "国家工作相关人员的常见罪名"
             }
           }
         ],
@@ -300,16 +298,20 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "cf2311b85cd60622",
+  "active": "88313517caad3bcb",
   "lastOpenFiles": [
+    "公安基础知识/公安机关外部监督.md",
+    "公安队伍正规化建设/人民警察的组织管理.md",
+    "公安队伍正规化建设/正规化建设素质、义务和纪律.md",
+    "行政处罚法.md",
+    "行政复议.md",
+    "治安管理处罚法/执法监督.md",
     "民法/民事责任.md",
     "治安管理处罚法/治安管理处罚法处罚程序（下·执行）.md",
     "公安基础知识/公安行政执法（办理行政案件程序规定）.md",
     "公安刑事执法的主要措施/刑事强制措施.md",
     "公安勤务能力.md",
-    "行政处罚法.md",
     "人民警察法/执法过错责任追究.md",
-    "公安队伍正规化建设/人民警察的组织管理.md",
     "人民警察法/人民警察的职务保障.md",
     "刑事诉讼法/起诉.md",
     "内部执法监督/督察制度.md",
@@ -324,12 +326,8 @@
     "治安管理处罚法/治安管理处罚法处罚程序（中·决定）.md",
     "治安管理处罚法/违反治安管理的行为（上）.md",
     "娱乐场所管理条例.md",
-    "刑事诉讼法/刑事诉讼法管辖与回避.md",
-    "刑法/累犯、自首、坦白、立功、缓刑与假释.md",
     "attachment/Pasted image 20251017165738.png",
     "attachment/Pasted image 20251022204122.png",
-    "刑法分则/刑法分则.md",
-    "刑法/反有组织犯罪法.md",
     "attachment/回看-第35-36节 内务条令（下）_1750521400957.png",
     "attachment/Pasted image 20251012163909.png",
     "attachment/Pasted image 20251008190500.png",
